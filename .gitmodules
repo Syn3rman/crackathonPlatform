@@ -1,0 +1,6 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Syn3rman/jumbleCode.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nachiketbhuta/crackathon-platform.git
