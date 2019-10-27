@@ -43,9 +43,3 @@
  We're are open to `enhancements` & `bug-fixes` :smile: Also do have a look [here](./CONTRIBUTING.md)
 
 ------------------------------------------
-### Contributors
-
-- [@Syn3rman](https://github.com/Syn3rman)
-- [@nachiketbhuta](https://github.com/nachiketbhuta)
-  
-------------------------------------------
